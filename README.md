@@ -1,5 +1,6 @@
 # E-Commerce-Data-Analysis
-Setup and Execution (Using Google Colab)
+A. Setup and Execution (Using Google Colab)
+
 To reproduce the analysis and results, you only need a Google account.
 
 1. Access the Notebook and Data
@@ -20,7 +21,8 @@ The notebook already includes the code to install necessary Python packages (pan
 
   c. The outputs are used directly to create the final Analysis Report.
 
-💡 Key Analytical Focus
+B. Key Analytical Focus-
+
 The analysis centered on three main areas:
 
   a. Customer Segmentation: Using RFM (Recency, Frequency, Monetary) metrics to identify high-value customer groups.
