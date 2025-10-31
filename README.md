@@ -4,6 +4,7 @@ A. Setup and Execution (Using Google Colab)
 To reproduce the analysis and results, you only need a Google account.
 
 1. Access the Notebook and Data
+   
   a. Open the Notebook: Click on the E_COMMERCE_DATA_ANALYSIS.ipynb file in this repository and select "Open in Colab".
 
   b. Upload the Data: Since the notebook reads a local file path (/content/ecommerce_dataset_updated.csv), you must upload the dataset:
