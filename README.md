@@ -14,7 +14,7 @@ To reproduce the analysis and results, you only need a Google account.
     ii. Click "Upload to session storage" and select the ecommerce_dataset_updated.csv file from your computer.
 
 2. Run the Analysis
-The notebook already includes the code to install necessary Python packages (pandas, numpy, matplotlib, seaborn).
+   The notebook already includes the code to install necessary Python packages (pandas, numpy, matplotlib, seaborn).
 
   a. Click "Runtime" in the top menu, then select "Run all".
 
